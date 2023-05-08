@@ -2,7 +2,7 @@
 
 > This site was made as a dummy site for testing out headless Promotion engine for generating Coupons for promoting sales on other platforms by integrating our API's with them.
 
-Link to the actual [Headless Promotion Engine Repo](https://github.com/omkar-here/Promotion-Engine/branches) we made
+Link to the actual [Headless Promotion Engine Repo](https://github.com/omkar-here/Promotion-Engine/) we made
 
 <img src="https://media.discordapp.net/attachments/905074139327516691/1084493340654977145/ca03d7af-81e5-4a12-8a6b-fe1a59bd144f.png?width=1039&height=509" width="100%" />
 
